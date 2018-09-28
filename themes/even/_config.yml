@@ -1,0 +1,82 @@
+# ===========================================
+# Site Information Settings
+# ===========================================
+
+# Site creation time
+since: 2011
+
+# Custom your favicon.ico in `site/source`
+favicon: /images/favicon.jpg
+
+# Set feed link (false | default | your feed link)
+# false: disable
+# default: use `atom.xml`, generator for `hexo-generator-feed`
+rss: default
+
+# ===========================================
+# Menu Settings
+# ===========================================
+menu:
+  # Home: /
+  Archives: /archives/
+  Tags: /tags
+  # Categories: /categories
+  About: /about/
+  Links: /links/
+
+# ===========================================
+# Theme Settings
+# ===========================================
+# theme styling
+# color: Default | Mint Green | Cobalt Blue | Hot Pink | Dark Violet
+theme:
+  color: Default
+  toc: true
+  search: false
+  navbar: true
+  fancybox: true
+
+copyright:
+  enable: false
+  # https://creativecommons.org/
+  license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+
+reward:
+  enable: false
+  qrCode: 
+    wechat: /image/reward/wechat.png
+    alipay: /image/reward/alipay.png
+
+# ===========================================
+# Social links Settings
+# ===========================================
+social:
+  email: leyar.me@gmail.com
+  stack-overflow:
+  twitter: https://twitter.com/leyar02
+  facebook: https://www.facebook.com/leyar.ling
+  linkedin:
+  google: https://plus.google.com/u/0/+LeyarLing
+  github: https://github.com/ileyar
+  weibo: http://weibo.com/lelar
+  zhihu: 
+
+# ===========================================
+# Third Party Services Settings
+# ===========================================
+
+# Baidu Analytics
+baidu_analytics: 
+# Google Analytics
+google_analytics: UA-74627504-1
+
+# Duoshuo
+duoshuo_shortname: 
+# Disqus
+disqus_shortname: leyar
+
+
+# ===========================================
+# Version
+# ===========================================
+version: 2.2.x
